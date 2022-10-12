@@ -78,7 +78,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 
 ✍️ 大家好，我是小问号同学!热爱计算机科学和IT互联网事业，励志成为一名资深程序员!
 
-at [https://www.gitee.com/xiaowenhao66](https://www.gitee.com/xiaowenhao66).
+[https://www.gitee.com/xiaowenhao66](https://www.gitee.com/xiaowenhao66).
 
 <!--START_SECTION:sponsors-->
 <a href="https://www.github.com/xiaowenhaohub" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
