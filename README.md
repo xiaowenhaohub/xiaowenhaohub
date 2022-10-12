@@ -39,23 +39,20 @@
 **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="Qt" title="Qt"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/2e2241112628f02b6133d06380981d22ef77a4a54ae68d52a84a100dd2b6e11d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d79656c6c6f773f7374796c653d666c61742d737175617265266c6f676f3d6a617661" alt="PyTorch" title="PyTorch"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" alt="TensorFlow" title="TensorFlow"></code>
 
 **Tools and Environments**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
+<code><img height="20" src="https://wakatime.com/static/img/editor-icons/intellij-idea-128.png" alt="ARM-Keil" title="ARM-Keil"></code>
 <code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="OpenCV" title="OpenCV"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
@@ -64,8 +61,9 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 ```text
-C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
+JAVA       5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
 PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
@@ -75,7 +73,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 > By the way, are you also curious about how to generate the list?
-> I wrote a script to generate it automatically, fork it. You can see [Charmve/Charmve](https://github.com/Charmve/Charmve) .
+> I wrote a script to generate it automatically, fork it. You can see [xiaowenhao/xiaowenhao](https://github.com/xiaowenhaohub) .
 
 If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Charmve Sponsors](https://charmve.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://charmve.github.io/sponsor.html](https://charmve.github.io/sponsor.html).
 
