@@ -59,7 +59,7 @@
 
 <br>
 
-📊 **This Week I Spent My Time On:**
+📊 **本周时间花费:**
 <!--START_SECTION:waka-->
 
 ```text
