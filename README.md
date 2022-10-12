@@ -75,7 +75,11 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 > By the way, are you also curious about how to generate the list?
 > I wrote a script to generate it automatically, fork it. You can see [xiaowenhao/xiaowenhao](https://github.com/xiaowenhaohub) .
 
-If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Charmve Sponsors](https://charmve.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://charmve.github.io/sponsor.html](https://charmve.github.io/sponsor.html).
+# 🙋 Hello
+
+✍️ 大家好，我是小问号同学!热爱计算机科学和IT互联网事业，励志成为一名资深程序员!
+
+at [https://www.gitee.com/xiaowenhao66](https://www.gitee.com/xiaowenhao66).
 
 <!--START_SECTION:sponsors-->
 <a href="https://www.github.com/xiaowenhaohub" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
