@@ -45,7 +45,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,git,idea,powershell,vscode" style="width: 200px" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,idea,powershell,vscode" style="width: 120px" />
   </a>
 </p>
 
