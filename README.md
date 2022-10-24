@@ -29,17 +29,15 @@
 </p>
 
 
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- stackoverflow profile
-<a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
+
 
 **Languages and Frameworks**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,docker,py,redis,mongodb,mysql,vue" />
+    <img src="https://skillicons.dev/icons?i=java,go,docker,py,redis,mongodb,mysql,vue" style="width:200px" />
   </a>
 </p>
 
@@ -47,7 +45,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,git,idea,powershell,vscode" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,idea,powershell,vscode" style="width: 200px" />
   </a>
 </p>
 
