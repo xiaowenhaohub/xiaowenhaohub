@@ -37,16 +37,20 @@
 
 **Languages and Frameworks**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="Qt" title="Qt"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" alt="TensorFlow" title="TensorFlow"></code>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,go,docker,py,redis,mongodb,mysql,vue" />
+  </a>
+</p>
 
 **Tools and Environments**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://wakatime.com/static/img/editor-icons/intellij-idea-128.png" alt="ARM-Keil" title="ARM-Keil"></code>
-<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,idea,powershell,vscode" />
+  </a>
+</p>
+
 
 
 <br>
